@@ -47,4 +47,4 @@ if (! -f $argv[1] || $argv[1] == "-help") then
 # OUTPUT
 ![sc1](https://github.com/SahilMSavanth/TCLsession/assets/125793271/1534e21f-65ff-401d-9584-4bc355ebe9c0)
 
-### DAY 2 Report 
+### DAY 2 Report ...
